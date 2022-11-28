@@ -1,5 +1,5 @@
-let num1 = 31;
-let num2 = 2;
+let num1 = -31;
+let num2 = -2;
 let num3 = 20;
 let num4 = 16;
 let multiply = num1 * num2;
